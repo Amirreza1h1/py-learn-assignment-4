@@ -2,7 +2,7 @@
 تمرین های جلسه چهارم
 ## Python
 
-### Session 3
+### Session 4
 know about how to make qrcode and instagram unfollower & newfollower finder + shorten the code(for) + file handling('w','r')
 ```
 import qrcode
